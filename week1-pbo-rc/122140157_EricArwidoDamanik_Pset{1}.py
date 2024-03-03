@@ -1,3 +1,5 @@
+#Minecraft Versi Sederhana
+
 class Karakter:
     def __init__(self, nama_player, armor, senjata):
         self.nama_player = nama_player
