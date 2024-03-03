@@ -80,7 +80,6 @@ class Makan:
         elif self.makanan == 'Golden Apple':
             player.hp += 20
 
-# Contoh penggunaan:
 steve = Karakter('Steve', 'Netherite', 'Kapak Kayu')
 alex = Karakter('Alex', 'Besi', 'Sword Emas')
 
